@@ -125,5 +125,6 @@ public class TestBlogg {
 		
 		assertEquals(str,samling.toString());
 		
+		System.out.println(samling.toString());
 	}
 }
